@@ -1,0 +1,7 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  //"db": "mongodb://localhost/vidly",
+  "db": "mongodb+srv://admin:1234@cluster0-bzegr.azure.mongodb.net/vidly?retryWrites=true&w=majority",
+  "port": "3900",
+  "requiresAuth": true
+}
